@@ -33,7 +33,7 @@
   width: 66%;
 
 }
- 	 
+
 [class*="col-"] {
   margin-left: 2%;
   margin-bottom: 2%;
@@ -42,9 +42,7 @@
 .first {
   margin-left: 0%;
 }
- 	 
+
 .clear-left {
   clear: left;
 }
-
-
